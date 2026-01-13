@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../BMAD-METHOD"
+		},
+		{
+			"path": "../../ai_stuff/OpenSpec"
+		},
+		{
+			"path": "../../ai_stuff/spec-kit"
+		},
+		{
+			"path": "../../ai_stuff/aidlc-workflows"
+		}
+	],
+	"settings": {}
+}
