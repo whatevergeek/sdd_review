@@ -7,13 +7,13 @@
 			"path": "../BMAD-METHOD"
 		},
 		{
-			"path": "../../ai_stuff/OpenSpec"
+			"path": "../OpenSpec"
 		},
 		{
-			"path": "../../ai_stuff/spec-kit"
+			"path": "../spec-kit"
 		},
 		{
-			"path": "../../ai_stuff/aidlc-workflows"
+			"path": "../aidlc-workflows"
 		}
 	],
 	"settings": {}
